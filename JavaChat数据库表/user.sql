@@ -1,0 +1,16 @@
+INSERT INTO `user`(`id`, `username`, `password`) VALUES (1, 'zhouger', '032611');
+INSERT INTO `user`(`id`, `username`, `password`) VALUES (2, '洲', '032611');
+INSERT INTO `user`(`id`, `username`, `password`) VALUES (3, '洲爷', '032611');
+INSERT INTO `user`(`id`, `username`, `password`) VALUES (4, '洲总', '032611');
+INSERT INTO `user`(`id`, `username`, `password`) VALUES (5, '侃宝', '032611');
+INSERT INTO `user`(`id`, `username`, `password`) VALUES (6, '曹贼', '032611');
+INSERT INTO `user`(`id`, `username`, `password`) VALUES (7, '静宝', '032611');
+INSERT INTO `user`(`id`, `username`, `password`) VALUES (8, '洲哥', '032611');
+INSERT INTO `user`(`id`, `username`, `password`) VALUES (9, '三月峰', '032611');
+INSERT INTO `user`(`id`, `username`, `password`) VALUES (10, '许锦希', '032611');
+INSERT INTO `user`(`id`, `username`, `password`) VALUES (11, '高英伦', '032611');
+INSERT INTO `user`(`id`, `username`, `password`) VALUES (12, 'vac 老白', '032611');
+INSERT INTO `user`(`id`, `username`, `password`) VALUES (13, 'admin', '032611');
+INSERT INTO `user`(`id`, `username`, `password`) VALUES (14, '郭伟', '032611');
+INSERT INTO `user`(`id`, `username`, `password`) VALUES (15, '', '');
+INSERT INTO `user`(`id`, `username`, `password`) VALUES (16, 'ban哥', '032611');
